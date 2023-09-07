@@ -24,4 +24,4 @@ WORKDIR "/opt/terraria/Linux"
 
 ENTRYPOINT [ "/opt/terraria/Linux/server-start.sh" ]
 
-EXPOSE 8080
+EXPOSE 7777
